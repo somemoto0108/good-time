@@ -7,3 +7,9 @@
   padding: 20px 30px;
   color: #fff
 }
+
+.main-2 img {
+  display: inline-block;
+  width: 90px;
+  height: 90px;
+}
